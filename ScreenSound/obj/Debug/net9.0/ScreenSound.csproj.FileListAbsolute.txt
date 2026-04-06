@@ -27,3 +27,18 @@ C:\Users\Caroline\OneDrive\Documents\programacao\alura\c#\ScreenSound\ScreenSoun
 C:\Users\Caroline\OneDrive\Documents\programacao\alura\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.genruntimeconfig.cache
 C:\Users\Caroline\OneDrive\Documents\programacao\alura\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ref\ScreenSound.dll
 C:\Users\Caroline\OneDrive\Documents\programacao\alura\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.sourcelink.json
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\bin\Debug\net9.0\ScreenSound.exe
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\bin\Debug\net9.0\ScreenSound.deps.json
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\bin\Debug\net9.0\ScreenSound.runtimeconfig.json
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\bin\Debug\net9.0\ScreenSound.dll
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\bin\Debug\net9.0\ScreenSound.pdb
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.AssemblyInfo.cs
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.sourcelink.json
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.dll
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\refint\ScreenSound.dll
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.pdb
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ScreenSound.genruntimeconfig.cache
+C:\Users\Caroline Souza\Documents\programacao\c#\ScreenSound\ScreenSound\obj\Debug\net9.0\ref\ScreenSound.dll
